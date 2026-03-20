@@ -26,30 +26,6 @@ Git • Docker • MATLAB
 
 ---
 
-## 🚀 Featured Projects
-
-### ❤️ Arrhythmia Detection System
-
-* Built ML models (Logistic Regression, Random Forest, XGBoost)
-* Achieved high accuracy in ECG classification
-* Focused on real-world healthcare application
-
----
-
-### 🤖 AI Voice Assistant (Jarvis)
-
-* Voice-controlled assistant using Python
-* Automates tasks and runs locally
-
----
-
-### 📊 Data Analysis & ML Projects
-
-* Worked on classification and prediction problems
-* Applied machine learning techniques on real datasets
-
----
-
 ## 🎯 Hobbies & Interests
 - Building AI/ML projects  
 - Gaming 🎮  
